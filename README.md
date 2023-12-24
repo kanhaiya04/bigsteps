@@ -7,7 +7,7 @@ A website with all the data of Pokemon
 ## Tech slack used:-
 
 - React
-- Recoil - global state management library
+- Redux - global state management library
 - React Bootstrap 
 
 ## Develop locally
